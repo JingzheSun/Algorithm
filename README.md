@@ -1,2 +1,2 @@
 # Algorithm
-CSE 202
+Java implementation of problems of CSE 202
